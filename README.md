@@ -28,14 +28,19 @@ A portfolio-style website hosted on:
 Before you deploy, you MUST edit the footer and add your details:
 
 Original:
+
 ```html
 <p>Crafted with <span>cloud</span> excellence by Pravin Mishra</p>
+```
+
 Add this line (example):
 
-html
-Copy code
+```html
 <p><strong>Deployed by:</strong> DMI Cohort 2 | Rahul Sharma | Group 4 | Week 1 | 16-01-2026</p>
+```
+
 ✅ This proof must be visible in your browser screenshot submission.
+
 
 Quick Deploy (Ubuntu + Nginx)
 1) Install Nginx
